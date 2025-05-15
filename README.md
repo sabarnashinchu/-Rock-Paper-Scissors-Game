@@ -2,7 +2,7 @@
 
 A modern, responsive implementation of the classic Rock Paper Scissors game with an attractive UI and smooth animations.
 
-![Rock Paper Scissors Game](https://i.imgur.com/placeholder.png)
+
 
 ## Features
 
